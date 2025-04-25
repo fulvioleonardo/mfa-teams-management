@@ -23,7 +23,7 @@ Este proyecto proporciona scripts y módulos para gestionar la Autenticación de
 ## Instalación
 1. Clone el repositorio:
    ```powershell
-   git clone https://github.com/tuorganizacion/mfa-teams-management.git
+   git clone https://github.com/fulvioleonardo/mfa-teams-management.git
    cd mfa-teams-management
    ```
 
